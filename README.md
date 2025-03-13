@@ -1,6 +1,6 @@
 # Machine-Learning-Asssignment - 3
 
-# JOB CLASSIFICATION MODEL
+## JOB CLASSIFICATION MODEL
 Used and SVM model on the dataset to categorize the descriptions into different categories based on their content.
 The SVM model’s low accuracy could be due to the small dataset size (325 data points) and high-dimensional text features.
 
@@ -16,8 +16,8 @@ Ways to Improve Accuracy in the Future
 4. Handle Imbalanced Data – If some job categories have fewer samples, use oversampling (SMOTE) or class-weight balancing in SVM.
 5. Try a Different Model – While SVM works well on small datasets, trying a Random Forest or fine-tuned BERT classifier could yield better results.
 
-# JOB RECOMMENDATION MODEL
-## 1️. Content-Based Filtering (CBF) Approach
+## JOB RECOMMENDATION MODEL
+### 1️. Content-Based Filtering (CBF) Approach
 Extracted features from job descriptions using SPLADE embeddings.
 Used cosine similarity to compare the user's profile with job descriptions.
 Recommended jobs that are most similar to what the user entered.
@@ -29,7 +29,7 @@ Advantages:
 
 Possible Improvements: Use NLP to extract skills, roles, and industries from user input for better matching.
 
-## 2. Collaborative-Based Filtering (CF)
+### 2. Collaborative-Based Filtering (CF)
 Clustered jobs using K-Means to identify groups of similar jobs.
 Used KNN to find the closest job clusters for the user.
 Recommended jobs from the nearest clusters rather than comparing all jobs.
