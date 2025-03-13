@@ -16,16 +16,16 @@ Ways to Improve Accuracy in the Future
 4. Handle Imbalanced Data – If some job categories have fewer samples, use oversampling (SMOTE) or class-weight balancing in SVM.
 5. Try a Different Model – While SVM works well on small datasets, trying a Random Forest or fine-tuned BERT classifier could yield better results.
 
-# JOB COMMENDATION MODEL
+# JOB RECOMMENDATION MODEL
 1️. Content-Based Filtering (CBF) Approach
 Extracted features from job descriptions using SPLADE embeddings.
 Used cosine similarity to compare the user's profile with job descriptions.
 Recommended jobs that are most similar to what the user entered.
 
 Advantages:
-✔ Works well when user data is limited (e.g., first-time users).
-✔ Ensures recommendations are personalized to the user's input.
-✔ Doesn’t rely on other users' behavior, making it independent of past interactions.
+a. Works well when user data is limited (e.g., first-time users).
+b. Ensures recommendations are personalized to the user's input.
+c. Doesn’t rely on other users' behavior, making it independent of past interactions.
 
 Possible Improvements: Use NLP to extract skills, roles, and industries from user input for better matching.
 
@@ -35,9 +35,9 @@ Used KNN to find the closest job clusters for the user.
 Recommended jobs from the nearest clusters rather than comparing all jobs.
 
 Advantages:
-✔ Captures patterns from multiple users rather than just individual preferences.
-✔ Helps users discover new job categories they might not have searched for.
-✔ Works well for large datasets where explicit user-job similarities aren’t available.
+a. Captures patterns from multiple users rather than just individual preferences.
+b. Helps users discover new job categories they might not have searched for.
+c. Works well for large datasets where explicit user-job similarities aren’t available.
 
 Possible Imporvements: 
 Use a Hybrid Model (CBF + CF). Combine content-based filtering (CBF) (job description similarities) with collaborative filtering (CF) (user-job interactions). This solves the cold-start problem (when a new user or job has no interaction history).
