@@ -1,15 +1,15 @@
 # Machine-Learning-Asssignment - 3
 
 ## JOB CLASSIFICATION MODEL
-Used and SVM model on the dataset to categorize the descriptions into different categories based on their content.
-The SVM model’s low accuracy could be due to the small dataset size (325 data points) and high-dimensional text features.
+Used an SVM model on the dataset to categorize the descriptions into different categories based on their content.
 
+Reasons for low accuracy:
 1️. Limited Training Data – 325 job descriptions are not be enough for the model to learn diverse job categories.
 2️. Overlapping Categories – Some job descriptions may contain similar terms across different categories, causing misclassification.
 3️. Sparse Features from Text – The text embeddings (SPLADE) may not fully capture the contextual meaning of job descriptions.
 4️. Imbalanced Data – If some categories have significantly more samples than others, the model may bias towards dominant categories.
 
-Ways to Improve Accuracy in the Future
+Ways to Improve Accuracy in the Future:
 1. Expand Dataset – Collect more job descriptions to improve generalization. A dataset of 1,000+ samples per category would be more effective.
 2. Use Advanced NLP Models – Instead of SPLADE, maybe try BERT-based models (e.g., sentence-transformers or distilBERT) to get better text representations.
 3. Feature Engineering – Extract key skills, required qualifications, and job titles separately to improve classification signals.
