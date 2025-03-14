@@ -1,0 +1,301 @@
+ID,Name,Skills,Education,Work Experience
+1,Nicholas Miller,"Data Analysis, Java, HTML, Python",MBA,2 years
+2,Austin Sutton Jr.,"HTML, Node.js, Java",M.Tech AI,2 years
+3,Troy Hamilton,"Flask, Java, SQL, Docker",BBA,Intern
+4,Perry Nelson,"Python, HTML",MBA,Intern
+5,Lauren Nelson,"JavaScript, SQL",B.Com,Intern
+6,Miguel Werner,"AWS, SQL, React",Ph.D Computer Science,5 years
+7,John Lewis,"CSS, Docker, HTML, Flask, JavaScript",M.Sc Data Science,Intern
+8,Jessica Walker,"Machine Learning, SQL, AWS",M.Sc Data Science,5 years
+9,Danny Trujillo,"Django, Node.js, Java",BBA,Intern
+10,Dr. Taylor Grimes,"Flask, SQL",B.Tech IT,1 year
+11,Alyssa Garrett,"Node.js, SQL, JavaScript, HTML, Data Analysis",M.Sc Data Science,10 years
+12,Laura Lee,"React, Data Analysis, CSS",Ph.D Computer Science,2 years
+13,Anne White,"SQL, Flask, Python, Data Analysis, JavaScript",BBA,3 years
+14,Dawn Morales,"HTML, React, Django, Data Analysis",Ph.D Computer Science,1 year
+15,Miss Ana Washington,"Django, Node.js, HTML",M.Tech AI,2 years
+16,Alexis Bell,"Data Analysis, SQL, Flask, React",B.Sc Computer Science,Intern
+17,Lisa Miller,"Flask, Data Analysis",B.Tech IT,Intern
+18,Ashley Young,"Node.js, Python, AWS, SQL, HTML",M.Tech AI,10 years
+19,Kyle Bradshaw,"Flask, AWS",M.Sc Data Science,5 years
+20,Kathleen Thompson,"JavaScript, Node.js",B.Tech IT,5 years
+21,Patricia Williams,"Java, React",B.Sc Computer Science,3 years
+22,Robin Cook,"Django, JavaScript, Node.js",MBA,10 years
+23,Patricia Jenkins,"JavaScript, Node.js",MBA,1 year
+24,Cheryl Jackson,"Docker, React, JavaScript",M.Sc Data Science,2 years
+25,Debra Clark,"Machine Learning, Flask, JavaScript",M.Tech AI,5 years
+26,Judy Harvey,"Django, HTML",BBA,5 years
+27,Melissa Johnson,"Machine Learning, SQL, Python, Java, HTML",MBA,5 years
+28,Sandy Kelly,"Docker, Node.js, SQL, Flask, HTML",B.Tech IT,Intern
+29,Anthony Hale,"React, Docker",B.Com,Intern
+30,Neil Hall,"HTML, Python, Java, Flask",Ph.D Computer Science,Intern
+31,Frederick Williams,"SQL, Docker, Flask, Data Analysis, React",Ph.D Computer Science,5 years
+32,Amanda Guzman,"HTML, CSS, JavaScript",B.Com,2 years
+33,Richard Nguyen,"Node.js, Java, Django, HTML",BBA,1 year
+34,Alexandra Savage,"React, Django, Docker, Python",B.Tech IT,Intern
+35,Katrina Williams,"React, Machine Learning, AWS, Data Analysis, SQL",B.Com,5 years
+36,Suzanne Knight,"Flask, Node.js, Machine Learning, React, HTML",M.Tech AI,2 years
+37,Charles James,"Machine Learning, Python, Java, CSS, Flask",MBA,5 years
+38,Caitlin Russell,"Machine Learning, CSS, HTML, AWS",MBA,1 year
+39,Mr. Tyler Cooper,"SQL, Docker, Node.js",B.Sc Computer Science,10 years
+40,David Walker,"React, Java, Python, AWS, HTML",B.Sc Computer Science,3 years
+41,Charles Melton,"Docker, Java, Flask, HTML, Machine Learning",B.Tech IT,2 years
+42,Shannon Cross,"Node.js, React",B.Tech IT,Intern
+43,Stacey Moreno,"Python, SQL, CSS, Machine Learning, Flask",B.Com,1 year
+44,Elizabeth Schmidt,"Django, SQL",M.Sc Data Science,1 year
+45,Ashlee Rodriguez,"Flask, Docker",BBA,10 years
+46,Sonia Harvey,"Data Analysis, HTML, JavaScript, CSS",B.Sc Computer Science,3 years
+47,Richard Cowan,"Python, JavaScript, Docker, AWS, CSS",MBA,2 years
+48,Christopher Byrd,"CSS, Flask, Docker",MBA,5 years
+49,Howard Taylor,"HTML, CSS",MBA,5 years
+50,Joshua Duran,"Java, Python, JavaScript, HTML",BBA,3 years
+51,Melissa Bell,"Data Analysis, AWS, Machine Learning",M.Sc Data Science,Intern
+52,Russell Hurst,"Node.js, Machine Learning, HTML",B.Sc Computer Science,10 years
+53,Amy Padilla,"Flask, Node.js, Python, Docker, HTML",M.Tech AI,2 years
+54,Brett Reyes,"SQL, Machine Learning, Node.js, Data Analysis",M.Tech AI,Intern
+55,Eric Thomas,"JavaScript, Python",B.Sc Computer Science,3 years
+56,Laura Lewis,"SQL, Data Analysis",B.Sc Computer Science,1 year
+57,Kathy Kennedy,"Data Analysis, React, CSS, Django, Java",MBA,3 years
+58,Tami Maxwell,"Docker, Node.js",B.Sc Computer Science,2 years
+59,Rachel Rodriguez,"React, Flask",B.Sc Computer Science,10 years
+60,Jasmine Dominguez,"React, SQL, Flask",MBA,3 years
+61,Edward Luna,"Docker, HTML, Machine Learning, JavaScript, Data Analysis",M.Sc Data Science,2 years
+62,Joshua Kennedy,"Node.js, HTML, Flask",Ph.D Computer Science,1 year
+63,Rachel Mcclain PhD,"AWS, Python",M.Sc Data Science,10 years
+64,Carol Fowler,"Python, Django, Machine Learning, React",M.Tech AI,3 years
+65,Paul Ibarra,"Node.js, JavaScript, Flask, CSS, React",B.Com,1 year
+66,Marissa Short,"Data Analysis, Django, JavaScript, Flask, Machine Learning",M.Sc Data Science,2 years
+67,Jerry Spencer,"React, Flask, Machine Learning",B.Tech IT,2 years
+68,Ariana Mason,"Django, React, Python",BBA,Intern
+69,Elizabeth Strickland,"CSS, Flask, Data Analysis, Django, Docker",BBA,5 years
+70,Karen Goodman,"React, Node.js, Java, Python, Flask",B.Sc Computer Science,2 years
+71,Joseph Mitchell,"Java, Django, HTML, React",Ph.D Computer Science,5 years
+72,Julie Wilson,"Python, Machine Learning, AWS, Data Analysis",B.Tech IT,3 years
+73,Sheila Diaz,"Java, CSS, SQL",B.Tech IT,Intern
+74,Albert Garrett,"HTML, SQL",MBA,1 year
+75,Stacy Dean,"Flask, CSS, Java, React, Machine Learning",B.Tech IT,Intern
+76,Brandi House,"Node.js, JavaScript",BBA,2 years
+77,Sean Cardenas,"Java, Django, CSS, HTML, AWS",M.Sc Data Science,2 years
+78,Carl Lewis,"React, Node.js, JavaScript, Machine Learning",B.Sc Computer Science,3 years
+79,Christopher Gallagher,"Node.js, CSS",MBA,Intern
+80,Connie Moody,"JavaScript, Data Analysis, Flask",B.Sc Computer Science,3 years
+81,Amy Yates,"Java, CSS",B.Tech IT,2 years
+82,Dave Clark,"HTML, Flask",B.Sc Computer Science,5 years
+83,Monique Mcclure,"AWS, Flask, HTML, CSS",BBA,10 years
+84,Stephanie Peterson,"SQL, Java, Python, Flask",Ph.D Computer Science,5 years
+85,David Atkins,"React, Flask",B.Sc Computer Science,5 years
+86,Sergio Duncan,"Node.js, Java, Python, AWS, Django",B.Sc Computer Science,10 years
+87,Anna Mora,"Django, SQL, HTML, Node.js, Data Analysis",BBA,1 year
+88,Regina Carrillo,"Machine Learning, SQL, Flask, Data Analysis, HTML",MBA,1 year
+89,Katherine Snyder,"Flask, HTML, Node.js, Docker",M.Tech AI,3 years
+90,Karen Johnston,"Flask, Node.js, CSS, Python",MBA,3 years
+91,Stephen Wood,"Docker, Flask",B.Com,Intern
+92,Zachary Landry,"Docker, React, Data Analysis",B.Com,10 years
+93,Adam Lloyd,"AWS, CSS",M.Sc Data Science,1 year
+94,Susan Sanchez,"Node.js, JavaScript, Python, Django",Ph.D Computer Science,10 years
+95,Nathan Nichols,"Django, Docker",MBA,3 years
+96,Jeffrey Pratt,"Node.js, HTML, SQL",M.Sc Data Science,3 years
+97,Jay Martin,"Flask, CSS",Ph.D Computer Science,10 years
+98,Michael Miller,"Java, Flask, AWS, CSS, SQL",BBA,10 years
+99,Monica Bryant,"JavaScript, AWS, Flask, CSS",M.Sc Data Science,5 years
+100,Steven Evans,"CSS, Django, Flask",B.Com,3 years
+101,Kenneth Cooper,"SQL, Docker, Data Analysis, Node.js",Ph.D Computer Science,Intern
+102,Emma Torres,"Docker, HTML",B.Tech IT,10 years
+103,Andrea Martinez,"Django, CSS, Data Analysis, Java",M.Sc Data Science,3 years
+104,Douglas Fernandez,"Machine Learning, Django, AWS, Python",B.Sc Computer Science,3 years
+105,Jimmy Flores,"Docker, Node.js",M.Tech AI,10 years
+106,Molly Tyler,"Data Analysis, Python, Node.js, React",M.Tech AI,5 years
+107,Rachel Bell,"Flask, Machine Learning, React, Python",Ph.D Computer Science,1 year
+108,Amy Mullen,"Python, HTML",B.Sc Computer Science,Intern
+109,Tamara Walker,"Flask, Data Analysis, AWS",M.Sc Data Science,10 years
+110,Danny Johnston,"JavaScript, Docker, React",BBA,10 years
+111,Antonio Anderson,"Flask, JavaScript",MBA,1 year
+112,James Ellis,"HTML, Node.js",Ph.D Computer Science,Intern
+113,Kristin Kennedy,"Django, Flask",BBA,5 years
+114,Jennifer Jenkins,"Data Analysis, CSS",B.Com,2 years
+115,Jennifer Henry,"Java, Flask, Data Analysis, SQL",MBA,2 years
+116,Madison Martin,"React, Flask, Java",BBA,1 year
+117,Nicole Novak,"Node.js, Python, CSS, React, HTML",B.Tech IT,5 years
+118,Fernando Hopkins,"Python, SQL, Django, JavaScript",B.Sc Computer Science,10 years
+119,Nancy Davis,"Java, CSS, HTML, Flask",M.Sc Data Science,2 years
+120,Tammy Hobbs,"CSS, SQL",BBA,3 years
+121,Samuel Miller,"Django, React, CSS",B.Sc Computer Science,1 year
+122,Christopher Lee,"CSS, HTML, Flask, Django",B.Tech IT,5 years
+123,Lisa Miller,"Python, Machine Learning, HTML",M.Sc Data Science,Intern
+124,Amy Johnson,"Java, Django, Node.js, Machine Learning, SQL",B.Sc Computer Science,1 year
+125,Hannah Obrien,"Java, HTML, JavaScript, CSS",MBA,10 years
+126,Rose Mendez,"CSS, JavaScript, AWS, Flask",B.Com,3 years
+127,Jessica Gonzalez,"CSS, Data Analysis",M.Tech AI,10 years
+128,Edward Jones,"React, Python",B.Com,Intern
+129,Jason Ward,"Python, Machine Learning, CSS, HTML, JavaScript",M.Tech AI,3 years
+130,Julie Knapp,"React, Java, SQL, Node.js",BBA,2 years
+131,Christopher Hunt,"Docker, CSS",Ph.D Computer Science,5 years
+132,Dale Sullivan,"Machine Learning, JavaScript",M.Tech AI,3 years
+133,Paul Foster,"HTML, JavaScript, Flask, Data Analysis, Java",B.Sc Computer Science,10 years
+134,Kristen Martin,"Java, SQL, AWS, Data Analysis, Machine Learning",B.Sc Computer Science,10 years
+135,Max Bell,"AWS, Docker, HTML, Python",M.Tech AI,5 years
+136,Andrew Ryan,"AWS, Java",Ph.D Computer Science,10 years
+137,Denise Smith,"AWS, SQL, Flask, CSS, Docker",BBA,5 years
+138,Alfred Harris,"React, Docker, Django, JavaScript",M.Tech AI,5 years
+139,Ebony Rivera,"Node.js, JavaScript",B.Com,1 year
+140,Ashley Wilkinson,"Python, CSS",B.Com,1 year
+141,Brett Wolfe,"SQL, Flask, Django, CSS, React",BBA,5 years
+142,Janet Patrick,"React, Flask, Django",M.Sc Data Science,10 years
+143,Aaron Chandler,"Data Analysis, Node.js, Flask",Ph.D Computer Science,5 years
+144,Sheila Nunez,"Flask, Node.js, CSS",M.Sc Data Science,5 years
+145,Kathryn Warren,"Node.js, Machine Learning, Docker, Python, Data Analysis",BBA,2 years
+146,Brian Bowers,"Data Analysis, JavaScript, React, Flask, Python",B.Sc Computer Science,5 years
+147,Megan Duarte,"HTML, CSS",B.Tech IT,3 years
+148,Michael Mason,"Docker, CSS, Django, AWS",M.Sc Data Science,5 years
+149,Mckenzie Stafford,"Node.js, Java, JavaScript, Machine Learning",B.Sc Computer Science,5 years
+150,Jacob Freeman,"React, JavaScript, Node.js",Ph.D Computer Science,3 years
+151,Christopher Chen,"HTML, CSS, Machine Learning, Data Analysis",B.Tech IT,Intern
+152,Nicole Lang,"CSS, Python",B.Com,10 years
+153,James Jenkins,"Python, Node.js, Django, HTML, React",BBA,3 years
+154,Krista Miller,"Node.js, HTML, Flask",B.Com,10 years
+155,Carlos Matthews,"AWS, Data Analysis, Node.js",M.Sc Data Science,1 year
+156,Shannon Winters,"Docker, Data Analysis",B.Tech IT,1 year
+157,Sharon Huang,"React, Machine Learning, AWS, Java, JavaScript",M.Tech AI,2 years
+158,Mark Brooks,"Python, JavaScript, Flask",M.Sc Data Science,3 years
+159,Ryan James,"Java, AWS, CSS, Machine Learning, React",M.Sc Data Science,3 years
+160,Susan Weber,"Django, Docker",B.Sc Computer Science,5 years
+161,Logan Hull,"Machine Learning, Django, Node.js, HTML, React",BBA,1 year
+162,Mr. William Cooper,"AWS, Flask, Docker, Machine Learning",B.Tech IT,3 years
+163,Kathleen Holt,"CSS, Java, Node.js, Docker, JavaScript",M.Tech AI,1 year
+164,Cory Wilson,"Django, Machine Learning",B.Sc Computer Science,Intern
+165,Jeffrey Ford,"Python, Django",MBA,2 years
+166,Samantha Greer,"React, AWS, SQL, Java, Data Analysis",B.Sc Computer Science,10 years
+167,Christopher Gonzales,"Docker, React, Machine Learning",MBA,1 year
+168,Jacqueline Smith,"JavaScript, React, HTML",B.Sc Computer Science,1 year
+169,Stephanie Hurley,"Python, Data Analysis, Node.js, Docker",BBA,Intern
+170,Megan Jones,"CSS, Django, JavaScript, React, Node.js",M.Tech AI,Intern
+171,Todd Schaefer,"Django, JavaScript",BBA,Intern
+172,Edwin Armstrong,"React, Machine Learning",B.Com,3 years
+173,Anna Gross,"Docker, Data Analysis, AWS, JavaScript, Node.js",B.Sc Computer Science,5 years
+174,Ryan Sullivan,"SQL, JavaScript, CSS",B.Com,5 years
+175,Sarah Butler,"SQL, React",M.Sc Data Science,1 year
+176,Denise Simon,"Java, JavaScript",Ph.D Computer Science,5 years
+177,Nicholas Johnson,"Docker, Python, AWS, Machine Learning, CSS",Ph.D Computer Science,2 years
+178,Mr. William Vega,"Data Analysis, Java, Node.js, Flask, JavaScript",MBA,5 years
+179,Traci Quinn,"Docker, HTML",Ph.D Computer Science,3 years
+180,Travis Leonard,"CSS, Machine Learning, AWS, Django",B.Tech IT,Intern
+181,Timothy Novak,"CSS, Django, Data Analysis, SQL, Python",M.Tech AI,10 years
+182,Dustin Padilla,"AWS, JavaScript",Ph.D Computer Science,1 year
+183,Laura Cook,"Data Analysis, HTML, Python, SQL, Docker",B.Tech IT,1 year
+184,Gloria Ryan,"JavaScript, Flask, Docker",Ph.D Computer Science,Intern
+185,Shelley Casey,"Django, CSS, Python, JavaScript, AWS",Ph.D Computer Science,10 years
+186,Julie Silva,"Data Analysis, AWS",B.Sc Computer Science,2 years
+187,Noah Mcpherson,"Data Analysis, Python",B.Com,1 year
+188,Kurt Munoz,"AWS, Python",M.Tech AI,2 years
+189,Judy Glass,"Data Analysis, Machine Learning",B.Com,3 years
+190,Bradley Cox,"HTML, CSS, JavaScript, Docker",M.Tech AI,Intern
+191,Joshua Rangel,"Node.js, Machine Learning, Data Analysis, HTML, JavaScript",MBA,3 years
+192,Daniel Weber,"Java, JavaScript, Node.js",M.Tech AI,10 years
+193,Christopher Willis,"SQL, HTML, React",MBA,1 year
+194,Samuel Nguyen,"Django, Node.js, Java, Docker",MBA,5 years
+195,Henry Hardy,"Django, CSS",BBA,1 year
+196,Julie Evans,"Flask, JavaScript, CSS, Python",MBA,Intern
+197,David Patton,"JavaScript, SQL, Machine Learning, React, Data Analysis",M.Sc Data Science,2 years
+198,Taylor Trujillo,"Docker, Node.js, CSS, Java",BBA,3 years
+199,Jodi Turner,"Node.js, HTML, Docker, SQL",MBA,10 years
+200,Susan Heath,"SQL, Node.js, Django, Flask, JavaScript",BBA,5 years
+201,Ronald Schmidt,"Flask, JavaScript, Docker, Django",M.Sc Data Science,3 years
+202,Bradley Garner,"Data Analysis, Docker, React",MBA,1 year
+203,Melinda Martinez,"Django, Java, AWS",B.Tech IT,1 year
+204,Devin Ramos,"Python, React",B.Com,2 years
+205,Justin Ward,"Machine Learning, Node.js",BBA,10 years
+206,Stephen Evans,"Java, AWS, Django, JavaScript, HTML",MBA,Intern
+207,Krystal Nelson,"Flask, Django, CSS",Ph.D Computer Science,Intern
+208,Gary Mullins,"Django, Docker, Flask",M.Sc Data Science,3 years
+209,Jennifer Leach,"Java, AWS, Node.js",B.Com,1 year
+210,Derek Edwards,"Django, Docker, JavaScript, Data Analysis",B.Sc Computer Science,5 years
+211,Theresa Smith,"Django, Python, Flask, React",B.Com,2 years
+212,Patricia Rivera,"Python, Machine Learning, Flask, JavaScript, Docker",B.Sc Computer Science,1 year
+213,Melanie Hoffman,"Data Analysis, Python, Node.js, Docker, Java",M.Tech AI,2 years
+214,Heather Donovan,"SQL, Java, AWS, Node.js, Python",B.Tech IT,3 years
+215,Steven Santiago,"Docker, Flask, Python, Java, CSS",B.Tech IT,5 years
+216,Richard Kline,"Flask, Java",BBA,10 years
+217,Donald Sexton,"Flask, SQL, CSS, HTML, Django",B.Com,5 years
+218,Sandra Johnson,"JavaScript, Python, Docker, CSS",M.Tech AI,3 years
+219,Alicia Richardson,"SQL, JavaScript",B.Com,3 years
+220,Angel Evans,"Python, Django, Docker",Ph.D Computer Science,2 years
+221,Jennifer Estrada,"HTML, CSS, Docker",MBA,10 years
+222,Nicole Smith,"JavaScript, Data Analysis",MBA,5 years
+223,Pamela Hayden,"Docker, AWS",MBA,5 years
+224,Allen Curtis,"CSS, Node.js, Machine Learning",Ph.D Computer Science,10 years
+225,Brandon Cooper,"Docker, Node.js, Java, SQL",B.Com,5 years
+226,Susan Brown,"Machine Learning, Node.js",B.Tech IT,3 years
+227,Reginald Williams,"Node.js, Python",Ph.D Computer Science,Intern
+228,Angela Wilson,"Docker, JavaScript",M.Sc Data Science,10 years
+229,Summer Ramirez,"Java, SQL, Data Analysis, Python",B.Tech IT,10 years
+230,Megan Thompson,"Docker, HTML",B.Sc Computer Science,10 years
+231,Mary Jensen,"CSS, Java, React, Machine Learning",B.Sc Computer Science,2 years
+232,William Nash,"SQL, Flask",MBA,2 years
+233,Matthew Wallace,"JavaScript, Data Analysis, Node.js",MBA,Intern
+234,Jessica Fuller,"Docker, SQL, Python, CSS, Machine Learning",M.Tech AI,3 years
+235,Susan Smith,"Python, Node.js, React",BBA,5 years
+236,Timothy Vazquez,"SQL, Docker, JavaScript, HTML, CSS",B.Com,2 years
+237,Kevin Casey,"Docker, Django, CSS",B.Tech IT,1 year
+238,Katrina Landry,"Data Analysis, Java, HTML",BBA,10 years
+239,David Roach,"Machine Learning, JavaScript, Java",Ph.D Computer Science,2 years
+240,Peggy Chang,"React, JavaScript, Python",M.Tech AI,1 year
+241,Jill Garcia,"CSS, Docker",BBA,2 years
+242,James Ruiz,"Python, AWS, CSS, HTML, Java",M.Tech AI,2 years
+243,Kelly Thompson,"React, Node.js, JavaScript, SQL, Java",B.Tech IT,2 years
+244,Cathy Moran,"React, CSS",B.Tech IT,3 years
+245,Terri Hill,"Machine Learning, Python, Data Analysis, Java, HTML",M.Sc Data Science,3 years
+246,Jacob Lopez,"Java, Python, JavaScript, Django",BBA,5 years
+247,Dale Williams,"Data Analysis, Docker, SQL, Node.js",B.Tech IT,5 years
+248,Julie Diaz,"SQL, JavaScript",BBA,2 years
+249,Melissa Pierce,"Python, Data Analysis, JavaScript",M.Tech AI,Intern
+250,Matthew Jacobs,"Java, Docker, SQL, React",B.Tech IT,2 years
+251,Alexa Bailey,"JavaScript, CSS",Ph.D Computer Science,1 year
+252,Colleen Kirby,"JavaScript, SQL, Django, Machine Learning, Flask",M.Sc Data Science,3 years
+253,Tammy Bartlett,"Java, JavaScript, SQL, Docker",B.Sc Computer Science,1 year
+254,Miranda Vazquez,"React, Flask, Docker, Node.js, Django",BBA,1 year
+255,Brian Wallace,"JavaScript, AWS, Docker, React",B.Com,3 years
+256,Mark Crawford,"HTML, JavaScript, Django, AWS, Node.js",B.Tech IT,5 years
+257,Rodney Hurst,"Flask, Machine Learning, Python",B.Com,Intern
+258,Mr. Jonathan Sanchez,"Docker, React, Machine Learning",M.Sc Data Science,10 years
+259,Erika King,"Node.js, JavaScript, Java, SQL, Data Analysis",M.Tech AI,2 years
+260,Amanda Moran,"Node.js, Python",M.Tech AI,5 years
+261,Melissa Walker,"Java, Docker, HTML",B.Com,3 years
+262,Charles Webb,"AWS, Flask, SQL",B.Tech IT,5 years
+263,David Gallagher,"HTML, React",M.Tech AI,1 year
+264,Stephanie Turner,"CSS, Docker, Java, HTML, Python",M.Tech AI,2 years
+265,Marilyn Wallace,"Data Analysis, AWS",B.Tech IT,3 years
+266,Tyler Brown,"Node.js, JavaScript, Django",M.Sc Data Science,2 years
+267,Denise Price DVM,"CSS, Java",MBA,Intern
+268,Chase Garner,"Java, React",M.Tech AI,Intern
+269,Joseph Olson,"Java, Flask, CSS, Docker",B.Sc Computer Science,10 years
+270,Jessica White MD,"CSS, Docker, AWS",MBA,10 years
+271,Michael Parker,"Docker, Node.js",B.Tech IT,10 years
+272,Anthony Conway,"JavaScript, React, Data Analysis",M.Tech AI,3 years
+273,Daniel Taylor,"React, Flask, Data Analysis",M.Sc Data Science,5 years
+274,Alexandra Rodriguez,"Node.js, Machine Learning",Ph.D Computer Science,1 year
+275,Anna Miller,"Python, Django, AWS, Data Analysis",M.Sc Data Science,2 years
+276,Angela Newman,"Java, Django, JavaScript",M.Sc Data Science,1 year
+277,Sean Davidson,"AWS, CSS, SQL, Machine Learning, JavaScript",M.Sc Data Science,3 years
+278,Jennifer Green,"JavaScript, Machine Learning, SQL, Docker, Java",BBA,2 years
+279,Natalie Pennington,"Docker, JavaScript",BBA,1 year
+280,Nicole Smith,"React, JavaScript, SQL, Django",M.Tech AI,5 years
+281,James Serrano,"Django, Flask, Node.js",BBA,10 years
+282,Mark Thomas,"Django, Java, Python, HTML",M.Tech AI,5 years
+283,Mark Weiss,"Data Analysis, CSS, AWS, HTML, Python",B.Com,1 year
+284,Katherine Pacheco,"Docker, Python, Node.js",B.Sc Computer Science,10 years
+285,Aimee Johnson,"Node.js, Data Analysis, JavaScript, SQL",B.Sc Computer Science,5 years
+286,Stacey Gay,"CSS, Flask, SQL, Docker",M.Sc Data Science,10 years
+287,Ronald Gonzalez,"HTML, CSS, Java, Docker, SQL",B.Sc Computer Science,1 year
+288,Donna Johnson,"CSS, Data Analysis",B.Sc Computer Science,2 years
+289,Michelle Andrade,"HTML, JavaScript, Machine Learning, React, Data Analysis",M.Sc Data Science,Intern
+290,Mackenzie Jackson,"AWS, React, SQL, HTML",B.Sc Computer Science,3 years
+291,Nancy Johnson,"Machine Learning, JavaScript, AWS, Java, React",M.Tech AI,10 years
+292,Ariel Marquez,"Django, Java, AWS",M.Tech AI,3 years
+293,Patrick Hamilton,"Django, Machine Learning, Node.js",B.Com,10 years
+294,John Dean,"Java, HTML, AWS, React, Data Analysis",BBA,Intern
+295,Nathan Weiss,"Machine Learning, React, Data Analysis",B.Com,5 years
+296,Melinda Martin,"Python, Node.js, Flask, Django",M.Sc Data Science,1 year
+297,Sheri Cruz,"Node.js, Data Analysis, Docker, JavaScript, Machine Learning",M.Sc Data Science,1 year
+298,Julie Garrett,"Python, React, AWS, Node.js, Java",B.Com,5 years
+299,Brandon Raymond,"SQL, CSS, JavaScript, Data Analysis, Docker",M.Tech AI,1 year
+300,Debbie Warner,"HTML, Django, Java",B.Com,1 year
