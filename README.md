@@ -4,10 +4,10 @@
 Used an **SVM mode**l on the dataset to categorize the descriptions into different categories based on their content.
 
 Reasons for low accuracy:
-1️. Limited Training Data – 325 job descriptions are not be enough for the model to learn diverse job categories.
-2️. Overlapping Categories – Some job descriptions may contain similar terms across different categories, causing misclassification.
-3️. Sparse Features from Text – The text embeddings (SPLADE) may not fully capture the contextual meaning of job descriptions.
-4️. Imbalanced Data – If some categories have significantly more samples than others, the model may bias towards dominant categories.
+1. Limited Training Data – 325 job descriptions are not be enough for the model to learn diverse job categories.
+2. Overlapping Categories – Some job descriptions may contain similar terms across different categories, causing misclassification.
+3. Sparse Features from Text – The text embeddings (SPLADE) may not fully capture the contextual meaning of job descriptions.
+4. Imbalanced Data – If some categories have significantly more samples than others, the model may bias towards dominant categories.
 
 Ways to Improve Accuracy in the Future:
 1. Expand Dataset – Collect more job descriptions to improve generalization. A dataset of 1,000+ samples per category would be more effective.
