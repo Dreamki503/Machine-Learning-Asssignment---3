@@ -39,7 +39,7 @@ Advantages:
 2. Helps users discover new job categories they might not have searched for.
 3. Works well for large datasets where explicit user-job similarities aren’t available.
 
-####Possible Imporvements: 
+Possible Imporvements: 
 1. Use a Hybrid Model (CBF + CF). Combine content-based filtering (CBF) (job description similarities) with collaborative filtering (CF) (user-job interactions).
 2. This solves the cold-start problem (when a new user or job has no interaction history).
 Example: Use CBF for new users and switch to CF once enough interactions exist.
