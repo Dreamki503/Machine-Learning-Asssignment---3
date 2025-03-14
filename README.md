@@ -1,7 +1,7 @@
 # Machine-Learning-Asssignment - 3
 
 ## JOB CLASSIFICATION MODEL
-Used an SVM model on the dataset to categorize the descriptions into different categories based on their content.
+Used an **SVM mode**l on the dataset to categorize the descriptions into different categories based on their content.
 
 Reasons for low accuracy:
 1️. Limited Training Data – 325 job descriptions are not be enough for the model to learn diverse job categories.
@@ -15,6 +15,8 @@ Ways to Improve Accuracy in the Future:
 3. Feature Engineering – Extract key skills, required qualifications, and job titles separately to improve classification signals.
 4. Handle Imbalanced Data – If some job categories have fewer samples, use oversampling (SMOTE) or class-weight balancing in SVM.
 5. Try a Different Model – While SVM works well on small datasets, trying a Random Forest or fine-tuned BERT classifier could yield better results.
+
+---
 
 ## JOB RECOMMENDATION MODEL
 ### 1️. Content-Based Filtering (CBF) Approach
@@ -43,14 +45,3 @@ Possible Imporvements:
 1. Use a Hybrid Model (CBF + CF). Combine content-based filtering (CBF) (job description similarities) with collaborative filtering (CF) (user-job interactions).
 2. This solves the cold-start problem (when a new user or job has no interaction history).
 Example: Use CBF for new users and switch to CF once enough interactions exist.
-
-
-
-
-
-
-
-
-
-
-
