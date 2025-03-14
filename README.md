@@ -19,12 +19,12 @@ Ways to Improve Accuracy in the Future:
 ## JOB RECOMMENDATION MODEL
 ### 1️. Content-Based Filtering (CBF) Approach
 Extracted features from job descriptions using SPLADE embeddings.
-Used cosine similarity to compare the user's profile with job descriptions.
-Recommended jobs that are most similar to what the user entered.
+Used cosine similarity to compare the user's profile (Work experience, Education, Skills) from the dataset with job descriptions.
+Recommended jobs that are most similar to what the user's profile.
 
 Advantages:
 1. Works well when user data is limited (e.g., first-time users).
-2. Ensures recommendations are personalized to the user's input.
+2. Ensures recommendations are personalized to the user's profile.
 3. Doesn’t rely on other users' behavior, making it independent of past interactions.
 
 Possible Improvements: Use NLP to extract skills, roles, and industries from user input for better matching.
@@ -39,7 +39,7 @@ Advantages:
 2. Helps users discover new job categories they might not have searched for.
 3. Works well for large datasets where explicit user-job similarities aren’t available.
 
-Possible Imporvements: 
+#####Possible Imporvements: /n
 Use a Hybrid Model (CBF + CF). Combine content-based filtering (CBF) (job description similarities) with collaborative filtering (CF) (user-job interactions). This solves the cold-start problem (when a new user or job has no interaction history).
 Example: Use CBF for new users and switch to CF once enough interactions exist.
 
