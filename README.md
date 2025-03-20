@@ -4,14 +4,14 @@
 Used an **SVM mode**l on the dataset to categorize the descriptions into different categories based on their content.
 
 Reasons for low accuracy:
-1. Limited Training Data – 325 job descriptions are not be enough for the model to learn diverse job categories.
+1. Limited Training Data – 325 job descriptions are not enough for the model to learn diverse job categories.
 2. Overlapping Categories – Some job descriptions may contain similar terms across different categories, causing misclassification.
 3. Sparse Features from Text – The text embeddings (SPLADE) may not fully capture the contextual meaning of job descriptions.
 4. Imbalanced Data – If some categories have significantly more samples than others, the model may bias towards dominant categories.
 
 Ways to Improve Accuracy in the Future:
 1. Expand Dataset – Collect more job descriptions to improve generalization. A dataset of 1,000+ samples per category would be more effective.
-2. Use Advanced NLP Models – Instead of SPLADE, maybe try BERT-based models (e.g., sentence-transformers or distilBERT) to get better text representations.
+2. Use Advanced NLP Models – Instead of SPLADE, try BERT-based models (e.g., sentence-transformers or distilBERT) to get better text representations.
 3. Feature Engineering – Extract key skills, required qualifications, and job titles separately to improve classification signals.
 4. Handle Imbalanced Data – If some job categories have fewer samples, use oversampling (SMOTE) or class-weight balancing in SVM.
 5. Try a Different Model – While SVM works well on small datasets, trying a Random Forest or fine-tuned BERT classifier could yield better results.
